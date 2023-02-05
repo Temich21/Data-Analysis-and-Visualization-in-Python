@@ -1,2 +1,2 @@
-# IZV
-Data Analysis and Visualization in Python
+# Data Analysis and Visualization in Python
+
