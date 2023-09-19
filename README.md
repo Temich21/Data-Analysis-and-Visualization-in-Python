@@ -1,4 +1,12 @@
-# Data-Analysis-and-Visualization-in-Python
-Data Analysis and Visualization in Python
-The aim of the course is to acquaint students with the problems of data acquisition, processing, analysis and visualization using the cross-platform scripting language Python. It has a sophisticated ecosystem offering a rich spectrum of extension libraries, either in the form of native code or in terms of performance of efficient extensions implemented in C / C ++.
-During the lectures students will learn Python constructs, methods of data acquisition, storage and manipulation, possibilities of advanced computations in numerical and symbolic level and visualization of acquired data. In this course, students will also gain an overview of the properties of techniques for advanced analysis of data dependencies and their applications for various data. Finally, Python will be expanded to include custom designs and techniques to effectively overcome the disadvantages of the interpreted language for performance-oriented applications. In the practical part (project), students will go through all stages of large data processing - from the design stage, through processing to subsequent analysis and visualization.
+## Data Analysis and Visualization in Python
+My "Data Analysis and Visualization in Python" repository is a compilation of coursework from my studies at the FIT faculty. This repository consists of three main folders, each dedicated to a specific aspect of data analysis:
+
+## Key Features:
+- **Download (Parsing):** In this section, I showcase my proficiency in data acquisition and parsing. I have tackled various tasks related to web scraping and data collection, employing tools like BeautifulSoup to extract structured data from websites.
+- **Data Preparation:** This folder highlights my skills in data cleaning, preprocessing, and transformation. I utilize libraries such as NumPy and Pandas to efficiently prepare and organize data for analysis and visualization.
+- **Data Visualization:** In this section, I demonstrate my ability to create informative and visually appealing data visualizations. I leverage libraries like Seaborn to generate insightful charts, graphs, and plots that facilitate data interpretation. <br/>
+Throughout this repository, you'll find examples of my work with essential data analysis and machine learning libraries like Scikit-learn. These tasks encompass a range of techniques, from basic data retrieval to advanced machine learning applications.<br/>
+My "Data Analysis and Visualization in Python" repository reflects my dedication to mastering the tools and techniques necessary for effective data analysis and visualization in the Python ecosystem.
+
+
+
